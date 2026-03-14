@@ -43,3 +43,7 @@ OAUTH_BASE_URL=https://github.com
 FRONTEND_BASE_URL=http://localhost:3000
 SESSION_SECRET=your_session_secret
 ```
+
+![GitHub Login Page](./images/ss1.png)
+![GitHub Login Page](./images/ss2.png)
+![GitHub Login Page](./images/ss3.png)
